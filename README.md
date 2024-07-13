@@ -4,7 +4,7 @@ This repository was created to document my progress in the Udemy course Progress
 
 My goal is to expand my knowledge about Web Development and take a deep dive in the world of Progressive Web Apps so I can improve every day!
 
-Modules / Sections:
+### Modules / Sections:
 - [x] 1. Getting Started
 - [ ] 2. Understanding the App Manifest
 - [ ] 3. The Service Workers
