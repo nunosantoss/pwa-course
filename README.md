@@ -1,6 +1,6 @@
 # Hello, World! 👋
 
-### This repository was created to document my progress in the Udemy course Progressive Web Apps (PWA) - The Complete Guide, taught by Maximilian Schwarzmüller!
+This repository was created to document my progress in the Udemy course Progressive Web Apps (PWA) - The Complete Guide, taught by Maximilian Schwarzmüller!
 
 My goal is to expand my knowledge about Web Development and take a deep dive in the world of Progressive Web Apps so I can improve every day!
 
